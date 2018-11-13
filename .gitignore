@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BrickRoad/v15
+/BrickRoad/bin/Debug
+/BrickRoad/obj/Debug

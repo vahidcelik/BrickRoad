@@ -1,4 +1,4 @@
-# Golder Brick Road
+# Golden Brick Road
 Waayd walks on a way. On his way, he come accross a golden brick road. The brick road requires a test of mind to cross it. 
 
 ![alt text](https://github.com/vahidcelik/BrickRoad/blob/master/Capture1.PNG)
